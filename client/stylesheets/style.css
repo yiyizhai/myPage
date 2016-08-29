@@ -31,6 +31,19 @@
     background-image: linear-gradient(to right, rgba(255, 255, 255, 0), rgba(255, 255, 255, 0.75), rgba(255, 255, 255, 0));
 }
 
+.blow-sub-title{
+	border: 0;
+	height: 1px;
+	/*width: 150px;*/
+	background-image: linear-gradient(to right,  rgba(163, 151, 151, 0.75), rgba(163, 151, 151, 0));
+}
+
+.pic{
+	padding-top: 5px !important;
+    padding-bottom: 0px !important;
+ 
+}
+
 .row{
 	
 	padding-top: 60px;
@@ -85,6 +98,12 @@
 	font-size: 120%
 }
 
+.p-edu{
+	font-size: 120%
+}
+.p-edu-1{
+	font-size: 70%
+}
 .footer{
 	background-color: #141414;
 	color: #ffffff;
@@ -93,4 +112,30 @@
 .footer-div{
 	padding-top: 15px;
 	padding-bottom: 15px;
+}
+
+.project-img{
+	height: auto;
+	width: 100%;
+	padding-bottom: 10px;
+	padding-top: 10px;
+	padding-left: 10px;
+	padding-right: 10px; 
+}
+.project-img1{
+	height: 50%;
+	width: 100%;
+}
+
+.sub-title{
+	color: #5A7C10;
+}
+
+.project-btn{
+	color: #5a7c10;
+}
+
+.shool-pic{
+	width: 70%;
+	height: auto;
 }
